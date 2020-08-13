@@ -1,5 +1,5 @@
-<h4 align="center" style="color:red;">Hi there<span>👋</span></h4>
-<p align="center">i'm namatsawin. how are you today?</p>
+#### Hi there👋
+###### I'm namatsawin. how are you today?
 
 
 
