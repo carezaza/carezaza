@@ -1,6 +1,6 @@
 <h4 align="center" color="red">Hi there<span>👋</span></h4>
 <p align="center">i'm namatsawin. how are you today?</p>
-- ![#f03c15](TEST)`#f03c15`
+- ![#1589F0]Hello
 
 
 <!--
